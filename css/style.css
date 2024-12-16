@@ -23,18 +23,8 @@ a {
   margin: 0 auto;
 }
 
-/* @media  (max-width: 1000px) {
+@media screen and (max-width: 520px) {
   .container {
-    width: 650px;
+    width: 300px;
   }
 }
-@media  (max-width: 700) {
-  .container {
-    width: 400px;
-  }
-}
-@media  (max-width: 450) {
-  .container {
-    width: 250px;
-  }
-} */
